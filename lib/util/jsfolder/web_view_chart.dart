@@ -51,8 +51,6 @@ class _TradingViewChartState extends State<TradingViewChart> {
           theme: "${widget.isLightMode ? 'light' : 'dark'}",
           style: "1",
           locale: "en",
-          locale: "fr", 
-          locale: "de",
           enable_publishing: false,
           hide_legend: false,
           hide_side_toolbar: true,
